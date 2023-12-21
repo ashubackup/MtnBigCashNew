@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>leader-blue-svg</title>
+	<style>
+		.s0 { fill: #000000;stroke: #ffcb05;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m20 15.7v-11.4c-5.8 4.6-10.2-4.5-16 0v11.4c5.8-4.6 10.2 4.5 16 0zm-16 5.3v-16"/>
+</svg>
